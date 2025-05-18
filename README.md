@@ -1,7 +1,7 @@
 # Preppin Data 2023 Week 2
 This is a challenge from [Summer of SQL](https://github.com/wjsutton/the_summer_of_sql) to help gain skills and confidence in SQL.
 
-Skills tested in challenge 3.1:
+Skills tested in challenge 3.2:
 - String manipulation with REPLACE
 
 
