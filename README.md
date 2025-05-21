@@ -17,6 +17,7 @@ Inputs
 ![Input](https://blogger.googleusercontent.com/img/a/AVvXsEg6fOt52HxeinlLBH6vvkEe80nUpprIXfLmE4H7qwt0U4BNU9n4fzzw-_5bWOI77WJCAId9YFK6Ezzt05F8md6OtyVqeWulnhfukFe1tsv39cQtTU1w952ykX8yb2yOLQp8yyl9ojoj_OHS5vuh6qh61cdI33ZD4ARegghcajZSkj37pErkpnCU_nSHKw). 
 
 Data Source Bank has a requirement to construct International Bank Account Numbers (IBANs), even for Transactions taking place in the UK. We have all the information in separate fields, we just need to put it altogether in the following order:
+
 ![Input](https://blogger.googleusercontent.com/img/a/AVvXsEg6cHU6JOCWWyUbCGBixif-Cj3CvRJNRr3RFzcpG7kI8zzL3eAWKBZPdu2UVqivMHILO-zaT2bJ9F2iaNfVWgZIAro_IOwwKi-GjJFVQyJ_O9iE-0X7Iin4vZxbqHiuEsPQp2nDtIjAARQ_aCrSbnmJU6LiU7L64P3gzS68jU9b7_ScOnYI3LOciKGwUw). 
 
 Requirements:
